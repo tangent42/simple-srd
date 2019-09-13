@@ -43,10 +43,6 @@ When the enemy has a big advantage, you’ll need to make a resistance roll befo
 
 The GM judges the threat level of the enemies and uses these “preemptive” resistance rolls as needed to reflect the capabilities of especially dangerous foes.
 
-For details on **Resistance Rolls**, see page 28.
-
-@TODO Add table from page 9.
-
 ## Actions
 
 When you ***Attune***, you open your mind to arcane power.
